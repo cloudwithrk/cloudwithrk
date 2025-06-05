@@ -1,6 +1,6 @@
 # Hey, I’m Rajendra 👋
 
-**Bridging code and cloud** with a passion for DevOps and Full Stack Development.
+**Connecting software development and cloud technologies to build efficient and reliable applications
 
 ---
 
