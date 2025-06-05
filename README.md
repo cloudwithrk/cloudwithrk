@@ -1,39 +1,54 @@
 ### Hi there 👋  
 I'm **Rajendra**  
 🚀 DevOps Engineer | Cloud Enthusiast | Full Stack Developer
+
 ---
+
 ### 👨‍💻 About Me
 
-With over **5.5 years of IT experience**, I bring a unique blend of development and operations expertise to the table. My recent **1.5 years** have been deeply focused on **DevOps practices**, working hands-on with tools and technologies that power modern, scalable infrastructure.
-Before diving into DevOps, I spent 5+ years as a **Full Stack Developer**, building robust web applications using **React.js**, **Node.js**, **Laravel**, and **MySQL**. This cross-functional background allows me to bridge the gap between development and operations, ensuring seamless deployments and system reliability.
+With **5.5+ years of IT experience**, I bring a strong mix of **DevOps** and **Full Stack Development** skills.  
+For the past **1.5 years**, I've worked hands-on with tools like **Kubernetes, Docker, Jenkins, Terraform**, and built scalable **CI/CD pipelines**.
+
+I have **3+ years of AWS experience**, designing and deploying services like **EC2, S3, RDS, Lambda, Route 53, IAM**, and more—focusing on **high availability** and **auto-scaling**.
+
+My earlier background in **React.js, Node.js, Laravel, and MySQL** helps me bridge the gap between development and infrastructure for smoother, more reliable deployments.
+ 
+
 ---
+
 ### ⚙️ DevOps & Cloud Expertise
-- 🛠 **DevOps Tools:** Kubernetes, Docker, Jenkins, Terraform, Ansible  
-- 🔁 **CI/CD Pipelines:** Automating deployment workflows with zero-downtime rollouts  
+
+- 🛠 **Tools:** Kubernetes, Docker, Jenkins, Terraform, Ansible  
+- 🔁 **CI/CD:** Scalable pipelines for automation & zero-downtime deployments  
 - 📊 **Monitoring & Logging:** Grafana, Prometheus, ELK Stack  
-- ☁️ **Cloud Platform (AWS) – 3+ Years Experience:**
+- ☁️ **AWS Cloud (3+ Years):**  
   - EC2, S3, RDS, Route 53, Lambda, DynamoDB  
-  - IAM, SQS, SNS, Auto Scaling, ELB
+  - IAM, SQS, SNS, ELB, Auto Scaling
+
 ---
-### 💻 Software Development
+
+### 💻 Software Development Skills
+
 - ⚛️ **Frontend:** React.js, Redux  
 - 🛠 **Backend:** Node.js, Express.js, Laravel  
 - 🗄️ **Databases:** MySQL, MongoDB  
-- 🌐 **Architecture:** RESTful APIs, MVC, Microservices
+- 🧱 **Architecture:** REST APIs, MVC, Microservices
+
 ---
+
 ### 🚀 What I Bring to the Table
-- 🔧 Deep hands-on experience in **infrastructure as code** and **automation**
-- 📈 Proven ability to build **scalable cloud architectures**
-- 🤝 Effective collaboration between **Dev** and **Ops** teams
-- 🧩 A full-stack perspective to troubleshoot, optimize, and scale solutions
+
+- 🔧 Expertise in **infrastructure as code** and cloud automation  
+- ☁️ Building secure and **scalable AWS environments**  
+- 🤝 Strong collaboration between **Dev** and **Ops** teams  
+- 🧩 End-to-end understanding from **code to cloud**
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/cloudwithrk))
-- 🌐 [Portfolio](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cloudwithrk/)
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories and connect if you’d like to collaborate or learn more about what I do. 😄
+Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to connect or collaborate. 😄
