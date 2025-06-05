@@ -3,6 +3,7 @@ I'm **Rajendra**
 🚀 DevOps Engineer | Cloud Enthusiast | Full Stack Developer
 ---
 ### 👨‍💻 About Me
+
 With over **5.5 years of IT experience**, I bring a unique blend of development and operations expertise to the table. My recent **1.5 years** have been deeply focused on **DevOps practices**, working hands-on with tools and technologies that power modern, scalable infrastructure.
 Before diving into DevOps, I spent 5+ years as a **Full Stack Developer**, building robust web applications using **React.js**, **Node.js**, **Laravel**, and **MySQL**. This cross-functional background allows me to bridge the gap between development and operations, ensuring seamless deployments and system reliability.
 ---
