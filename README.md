@@ -1,33 +1,42 @@
-# Hey, I’m Rajendra 👋
+### 👋 Hi there!
 
-**Connecting software development and cloud technologies to build efficient and reliable applications
+I’m **Rajendra**, a passionate **DevOps Engineer** with a Cloud + Full-Stack edge.  
+---
+### 🚀 **What I Do**
+💡 **DevOps:**  
+- 🔹 AWS, Kubernetes, Terraform, Ansible, Docker, Jenkins  
+- 🔹 Build scalable CI/CD pipelines to automate deployments and reduce downtime  
+- 🔹 Implement monitoring & logging: Prometheus, Grafana, ELK Stack  
+💻 **Software Development:**  
+- 🔹 **Frontend:** React.js, Redux  
+- 🔹 **Backend:** Node.js, Express.js, Laravel  
+- 🔹 **Databases:** MySQL, MongoDB  
+---
+
+### ⚡ **About Me**
+
+I love automating repetitive tasks, securing infra, and delivering robust cloud-native apps.  
+I’m currently working on projects that combine **React**, **Node**, and **AWS/Kubernetes** to build production-ready, resilient systems.
 
 ---
 
-### What I Do
+### 📫 **Let’s Connect**
 
-- 🚀 Automate & scale infrastructure using **Kubernetes**, **Docker**, **Jenkins**, and **Terraform**  
-- ☁️ Build resilient cloud solutions on **AWS** — EC2, S3, Lambda, RDS, IAM, and more  
-- 💻 Develop web apps with **React.js**, **Node.js**, **Laravel**, and **MySQL**  
-- 🔄 Design seamless CI/CD pipelines & monitoring setups for zero downtime  
+- LinkedIn: [(https://www.linkedin.com/in/cloudwithrk/)]
+- Portfolio/Blog: [If you have one]
 
 ---
 
-### Tech Arsenal
+**“Automation first. Manual last.”** 🚀
 
-**Cloud & DevOps**  
-`Kubernetes` `Docker` `Jenkins` `Terraform` `Ansible` `AWS` `CI/CD` `Grafana` `Prometheus` `ELK`
 
-**Development**  
-`React.js` `Redux` `Node.js` `Express.js` `Laravel` `MySQL` `MongoDB` `REST APIs` `Microservices`
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cloudwithrk&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)
 
----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cloudwithrk&theme=chartreuse-dark&hide_border=true)
 
-### Let’s Connect!
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudwithrk&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cloudwithrk/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/rajendrakmr/)
 
----
 
-Thanks for dropping by! Explore my projects and let’s build something awesome together. 🚀
+ 
+ 
