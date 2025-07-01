@@ -36,9 +36,7 @@ I’m currently working on projects that combine **React**, **Node**, and **AWS/
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudwithrk&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🔝 Contributions
-[![ShowPR](https://show-pr.vercel.app/api/badge/cloudwithrk?v=1)](https://show-pr.vercel.app/cloudwithrk)
-
+ 
 
 
  
