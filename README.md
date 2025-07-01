@@ -23,7 +23,7 @@ I’m currently working on projects that combine **React**, **Node**, and **AWS/
 ### 📫 **Let’s Connect**
 
 - LinkedIn: [(https://www.linkedin.com/in/cloudwithrk/)]
-- Portfolio/Blog: [If you have one]
+
 
 ---
 
