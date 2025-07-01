@@ -10,7 +10,8 @@ I’m **Rajendra**, a passionate **DevOps Engineer** with a Cloud + Full-Stack e
 💻 **Software Development:**  
 - 🔹 **Frontend:** React.js, Redux  
 - 🔹 **Backend:** Node.js, Express.js, Laravel  
-- 🔹 **Databases:** MySQL, MongoDB  
+- 🔹 **Databases:** MySQL, MongoDB
+- 🔹 **Scripting:** Bash, Python
 ---
 
 ### ⚡ **About Me**
